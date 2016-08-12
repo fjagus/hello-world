@@ -1,3 +1,3 @@
-# hello-world
+# hello-world Small conflict
 Let's start from the begining
-Add one line
+Add one line et oui
